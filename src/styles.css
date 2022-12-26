@@ -22,9 +22,13 @@ h2 {
   font-size: 1.5rem;
 }
 
+h1 {
+  
+}
+
 h3 {
   font-size: 3rem;
-  margin-bottom: 5px;
+  margin-bottom: 30px;
 }
 
 .card-grid {
@@ -60,4 +64,14 @@ h3 {
 
 .card img {
   width: 100%;
+}
+
+.titulo-principal{
+  
+}
+
+.titulo-categoria {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
